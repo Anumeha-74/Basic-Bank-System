@@ -1,0 +1,113 @@
+
+  body {
+  
+    font-family: "Roboto", cursive;
+    font-weight: bolder;
+    background-color:#5920cb48  }
+  
+  .main-heading {
+    font-family: "Raleway", cursive;
+    font-weight: bolder;
+    font-size: 3.5rem;
+    margin-top: 1.875rem;
+    text-align: center;
+  }
+  
+  .header i {
+    color: black;
+    background-color: #696d6e;
+    border-radius: 50%;
+    position: absolute;
+    right: 70px;
+    top: 40px;
+    opacity: 0.6;
+  }
+  
+  .header i:hover {
+    opacity: 0.8;
+  }
+
+  
+  table th, td {
+    border: 1px solid white;
+    width: 20%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 1.3rem;
+  }
+  
+  th {
+    font-family: "Raleway", cursive;
+    color: #ffffff;
+    border-radius: 5px;
+    background-image: linear-gradient(plum,plum);
+  }
+  
+  td {
+    color: black;
+    background-color: rgba(128, 128, 128, 0.603) ;
+    opacity: 0.7;
+  }
+  
+  /* .table-info
+  {
+    background-image: none;
+    background-color: none;
+  }
+   */
+  .table-light
+  {
+    background-color: grey;
+  }
+  
+  .table-info
+  {
+   background-color: rgba(199, 37, 37, 0.342);
+  }
+  
+  .button {
+    text-align: center;
+    padding-bottom: 5%;
+  }
+  
+  .my-btn {
+    margin-left: 0%;
+    margin-top: 2%;
+    margin-bottom: -3%;
+    font-weight: bolder;
+  }  
+
+.container-1
+{
+  width: 60%;
+  margin-left: 250px;
+}
+  
+
+.next, .previous
+{
+  
+  border-radius: 4px;
+  background-color:#7957f5a2 ;
+  color: white;
+  width: 100px;
+  height: 40px;
+  border-radius: 40px;
+  margin-top: 10px;
+  float: right;
+}
+.next a, .previous a
+{
+  color: white;
+  
+}
+.next:hover, .previous:hover
+{
+  background-color: rgba(128, 128, 128, 0.37) ;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
